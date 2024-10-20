@@ -1,0 +1,4 @@
+venv
+node_modules
+certificate.pem
+privatekey.pem
